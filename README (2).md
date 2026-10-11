@@ -237,6 +237,4 @@ Contains:
 
 ---
 
-# Author
-## Abhijeet Roy
-## LinkedIn : https://www.linkedin.com/in/abhijeetroy9
+
